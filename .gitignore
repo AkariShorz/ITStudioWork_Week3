@@ -1,0 +1,11 @@
+# 密码 & 本地环境配置
+.env
+.env.*
+
+# Python 虚拟环境 + 缓存
+.venv/
+__pycache__/
+*.pyc
+
+# 数据库目录
+mysql-data/
